@@ -5,14 +5,14 @@ baseurl: "/"
 url: "http://cubesatnepal.github.io" 
 # User settings
 username: arjankc
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+user_title: innovation enthusiast
+email: arjankc@gmail.com
+twitter_username: kc_rzn
+github_username:  arjankc
+gplus_username:  ArjanKC
+linkedin_public_url: arjankc # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: ArjanKC
+profile_picture: https://scontent.fktm3-1.fna.fbcdn.net/v/t1.0-9/20882223_10207648982262930_2853917422453853587_n.jpg
 
 # Build settings
 markdown: kramdown
@@ -31,9 +31,9 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: my posts
+  - title: posts
     url: /posts
-  - title: series
+  - title: resources
     url: /series
   - title: tags
     url: /tags
