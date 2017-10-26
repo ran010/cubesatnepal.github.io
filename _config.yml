@@ -1,10 +1,10 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+title: CubeSatNepal
+description: "Resources for Nepal's space mission"
+baseurl: "/"
+url: "http://cubesatnepal.github.io" 
 # User settings
-username: lorem ipsum
+username: arjankc
 user_title: Lorem Ipsum - FrontEnd
 email: lorem.lorem@ipsum.com
 twitter_username: loremipsum
